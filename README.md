@@ -1,0 +1,2 @@
+# scalaTestCalculator
+For testing purpose
